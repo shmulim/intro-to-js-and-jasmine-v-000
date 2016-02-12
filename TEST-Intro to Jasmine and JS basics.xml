@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="4" errors="0" failures="0" time="0.005" timestamp="2016-02-12T14:50:52">
+		<testcase classname="Intro to Jasmine and JS basics" name="#favIceCream should return your fav icecream" time="0.001">
+		</testcase>
+		<testcase classname="Intro to Jasmine and JS basics" name="#shouting should return a string in all caps" time="0">
+		</testcase>
+		<testcase classname="Intro to Jasmine and JS basics" name="#roundDown should correctly floor the number" time="0">
+		</testcase>
+		<testcase classname="Intro to Jasmine and JS basics" name="#theTruth return true" time="0.001">
+		</testcase>
+	</testsuite>
+</testsuites>
+
